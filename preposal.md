@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+I will be doing the "Stonks" project. 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+I will be working alone. 
 
 ## Do you have any questions of your own?
 
-TODO
+None at the moment. 
